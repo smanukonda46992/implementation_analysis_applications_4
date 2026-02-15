@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <b>Author:</b> <span style="color:#2d6cdf;">[Your Name]</span> &nbsp;|&nbsp; <b>Date:</b> <span style="color:#2d6cdf;">February 2026</span>
-</p>
-
----
-
-<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-2d6cdf?logo=python">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-3ecf8e">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-3ecf8e">
