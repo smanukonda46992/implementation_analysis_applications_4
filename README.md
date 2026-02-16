@@ -14,6 +14,12 @@
 
 ---
 
+## 📄 Analysis Report
+
+> **[📊 Click here to view the full Analysis Report](analysis_report.md)**
+
+---
+
 ## 📋 Table of Contents
 - [📝 Overview](#-overview)
 - [📊 Empirical Analysis](#-empirical-analysis)
@@ -77,15 +83,23 @@ Saved plot: analysis_reverse.png
 ## 📁 Project Structure
 
 <pre style="background:#f4faff; color:#2d6cdf;">
-analysis_random.png        # Random array timing plot
-analysis_sorted.png        # Sorted array timing plot
-analysis_reverse.png       # Reverse array timing plot
-analysis_report.md         # Detailed report and discussion
-assignment.txt             # Assignment instructions
-heapsort.py                # Heapsort and analysis code
-priority_queue.py          # Priority queue implementation
+src/heapsort/              # Heapsort implementation
+src/priority_queue/        # Priority Queue implementation
+experiments/               # Empirical analysis scripts
+tests/                     # Unit tests
+analysis_report.md         # 📊 DETAILED ANALYSIS REPORT
 README.md                  # This file
 </pre>
+
+---
+
+## 📑 Documentation
+
+| Document | Description |
+|----------|-------------|
+| **[📊 analysis_report.md](analysis_report.md)** | **⭐ MAIN REPORT - Design choices, complexity analysis, empirical results** |
+| [report/assignment4_report.md](report/assignment4_report.md) | Extended report with appendices |
+| [assignment.txt](assignment.txt) | Original assignment instructions |
 
 ---
 
