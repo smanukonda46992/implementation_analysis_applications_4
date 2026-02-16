@@ -296,13 +296,13 @@ The priority queue efficiently handles task scheduling with predictable performa
 
 ```bash
 # Install dependencies
-pip install matplotlib numpy
+pip3 install matplotlib numpy
 
 # Run Heapsort experiments
-python experiments/run_heapsort_experiments.py
+python3 experiments/run_heapsort_experiments.py
 
 # Run Priority Queue experiments
-python experiments/run_priority_queue_experiments.py
+python3 experiments/run_priority_queue_experiments.py
 
 # Generate plots
 python experiments/plot_results.py

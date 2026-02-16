@@ -47,9 +47,9 @@ Automated analysis is performed using generator functions. When you run <code>he
 ## 🚀 How to Run
 
 1. <b>Install dependencies:</b>
-   <pre style="background:#f4faff; color:#2d6cdf;"><code>pip install matplotlib numpy</code></pre>
+   <pre style="background:#f4faff; color:#2d6cdf;"><code>pip3 install matplotlib numpy</code></pre>
 2. <b>Run the analysis:</b>
-   <pre style="background:#f4faff; color:#2d6cdf;"><code>python3 heapsort.py</code></pre>
+   <pre style="background:#f4faff; color:#2d6cdf;"><code>python3 main.py</code></pre>
 3. <b>View the generated images</b> in your project directory and review the printed timing statistics.
 
 ---
