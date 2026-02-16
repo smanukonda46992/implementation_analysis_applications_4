@@ -1,8 +1,9 @@
 """
 Heap Operations Module
+Author: smanukonda46992
+Course: DS Assignment 4
 
-Core heap operations: heapify and build_max_heap.
-Used by Heapsort for in-place sorting.
+Core heap operations for max-heap maintenance.
 """
 
 from typing import List

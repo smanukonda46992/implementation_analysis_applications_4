@@ -1,8 +1,9 @@
 """
-Heapsort Algorithm Implementation
+Heapsort Algorithm
+Author: smanukonda46992
+Course: DS Assignment 4
 
-In-place sorting using binary max-heap.
-Time: O(n log n) in all cases, Space: O(1)
+In-place sorting with O(n log n) guaranteed performance.
 """
 
 from typing import List

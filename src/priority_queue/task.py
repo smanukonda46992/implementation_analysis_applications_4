@@ -1,8 +1,9 @@
 """
 Task Class for Priority Queue
+Author: smanukonda46992
+Course: DS Assignment 4
 
-Represents a schedulable task with priority, arrival time, and deadline.
-Tasks are compared by: priority > deadline > arrival time (FIFO).
+Schedulable task with priority-based comparison.
 """
 
 from dataclasses import dataclass

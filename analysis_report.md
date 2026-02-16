@@ -1,5 +1,9 @@
 # Assignment 4: Heap Data Structures - Comprehensive Report
 
+**Author:** smanukonda46992  
+**Course:** Data Structures  
+**Date:** February 2026
+
 ## 1. Executive Summary
 
 This report presents a detailed analysis of heap data structures, focusing on two key applications: **Heapsort** and **Priority Queues**. The implementation uses Python and follows best practices for algorithm design, analysis, and documentation.

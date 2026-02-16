@@ -1,8 +1,9 @@
 """
-Priority Queue Implementation using Binary Max-Heap
+Priority Queue using Binary Max-Heap
+Author: smanukonda46992
+Course: DS Assignment 4
 
-Uses array-based heap for O(log n) insert and extract operations.
-Supports increase_key and decrease_key for dynamic priority updates.
+Array-based heap with O(log n) operations.
 """
 
 from typing import List, Optional, Dict, Any

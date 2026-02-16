@@ -1,16 +1,9 @@
 #!/usr/bin/env python3
 """
-Main Entry Point for Assignment 4
+Assignment 4: Heap Data Structures
+Author: smanukonda46992
 
-Usage:
-    python main.py [command]
-
-Commands:
-    all      - Run everything (default)
-    heapsort - Run Heapsort experiments
-    pqueue   - Run Priority Queue experiments
-    demo     - Run demonstrations
-    tests    - Run unit tests
+Usage: python main.py [all|heapsort|pqueue|demo|tests]
 """
 
 import sys
